@@ -1,6 +1,6 @@
 # Node Version Manager [![Build Status](https://travis-ci.org/creationix/nvm.svg?branch=master)][3]
 
-## Installation
+## Installation 
 
 First you'll need to make sure your system has a c++ compiler.  For OSX, XCode will work, for Ubuntu, the build-essential and libssl-dev packages work.
 
